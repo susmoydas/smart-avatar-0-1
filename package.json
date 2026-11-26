@@ -1,6 +1,6 @@
 {
-  "name": "smartavatar-react",
-  "version": "1.0.0",
+  "name": "smart-avatar-0-1",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev -p 3000",

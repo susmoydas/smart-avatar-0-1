@@ -1,4 +1,4 @@
-# SmartAvatar — Next.js (React) version
+# Smart Avatar 0.1 — Next.js (React) version
 
 The full SmartAvatar website as a Next.js 14 project: 29 pages, scroll scenes, dot-matrix
 animations, the pocket arcade (race, snake, blocks, shooter), chat contact and responsive layout.
